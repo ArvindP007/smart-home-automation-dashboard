@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SmartHome.API/SmartHome.API.csproj" />
+  <Project Path="SmartHome.Application/SmartHome.Application.csproj" Id="7c0715fb-cd8a-4ffc-b1cc-537784f64e72" />
+  <Project Path="SmartHome.Domain/SmartHome.Domain.csproj" Id="67ac5797-5010-4d4c-9a11-d6a12ddc338a" />
+  <Project Path="SmartHome.Infrastructure/SmartHome.Infrastructure.csproj" Id="68b0f898-c801-4610-bfd1-bfa5907f8c4a" />
+</Solution>
